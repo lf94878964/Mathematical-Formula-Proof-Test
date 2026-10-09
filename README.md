@@ -10,6 +10,7 @@
 | `algebra.lean` | 完全平方、平方差、AM-GM、柯西-施瓦茲不等式、拉格朗日恆等式、三角不等式 |
 | `induction.lean` | 高斯求和、奇數和、平方和、等比級數、伯努利不等式 |
 | `classic.lean` | 康托爾定理、歐幾里得質數無窮、√2 無理性 |
+| `pythagorean-theorem.lean` | 畢氏定理的20種證明 |
 
 ## 環境
 
